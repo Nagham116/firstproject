@@ -45,7 +45,7 @@ public void mySetup () throws InterruptedException{
 
 		firstItemAddtoCartButton.click();
 
-
+        String myname="nagham";
 
 
 }
